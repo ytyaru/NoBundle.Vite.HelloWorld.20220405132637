@@ -53,6 +53,12 @@ npm run dev
 
 [![img]][DEMO]
 
+## Build
+
+```sh
+npx vite build
+```
+
 # Author
 
 ytyaru
