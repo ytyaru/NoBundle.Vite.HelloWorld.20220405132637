@@ -56,7 +56,7 @@ npm run dev
 ## ビルド
 
 ```sh
-npx vite build
+npx vite build  --base=https://ytyaru.github.io/NoBundle.Vite.HelloWorld.20220405132637/
 ```
 
 # 著者
